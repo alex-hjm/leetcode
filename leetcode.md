@@ -967,14 +967,6 @@ k 是一个正整数，它的值小于或等于链表的长度。
 2. 先判断每个分组长度是否大于等于 k，若是就翻转，否则不翻转
 3. 翻转后子链表头部与上个子链表连接，尾部与下个子链表连接
 
-<iframe 
-    height=450 
-    width=800 
-    src=videos/25.mp4
-    frameborder=0 
-    allowfullscreen>
-</iframe>
-
 <video src=videos/25.mp4 preload> </video> 
 
 ```c++
